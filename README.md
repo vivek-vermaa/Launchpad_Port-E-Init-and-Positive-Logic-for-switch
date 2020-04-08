@@ -5,4 +5,5 @@ Things to keep in mind :-
 
 2) Enabling Pull Up registor enables Negative Logic i.e when the switch is pressed  the switch is dis-armed and when the switch is released it becomes armed.
 
+The following firmware will illustrate an example how does it works on Launchpad 
 
